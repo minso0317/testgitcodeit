@@ -1,4 +1,6 @@
 console.log("Hello A!");
 console.log("Hello A!");
 console.log("Hello A!");
->>>>>>> feat
+console.log("Hello A!");
+console.log("Hello A!");
+
